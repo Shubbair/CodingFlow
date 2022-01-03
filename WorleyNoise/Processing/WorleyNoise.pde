@@ -1,4 +1,4 @@
-PVector[] points = new PVector[20]; 
+PVector[] points = new PVector[100]; 
 
 void setup(){
   size(600,400);
@@ -20,7 +20,7 @@ void draw(){
       }
       int n = 0;
       float[] sorted = sort(distances);
-      float noise = map(sorted[n],0,width/2,0,255);      
+      float noise = map(sorted[n],0,50,0,255);      
       
       int index = x + y * width;
       pixels[index] = color(noise);
