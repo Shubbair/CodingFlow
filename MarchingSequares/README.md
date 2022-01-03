@@ -5,5 +5,5 @@ for reading more ... [here](https://en.wikipedia.org/wiki/Marching_squares)
 
 the algorithm are discussed here : 
 
-<img src="src.png" width="100px">
+<img src="docs/src.png" width="100%">
 
