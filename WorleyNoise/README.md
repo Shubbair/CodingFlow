@@ -2,7 +2,7 @@
 
 <img src="docs/src.png">
 
-Worley noise is a noise function introduced by Steven Worley in 1996. In computer graphics it is used to create procedural textures,[1] i.e. textures that are created automatically with arbitrary precision and do not have to be drawn by hand. Worley noise comes close to simulating textures of stone, water, or biological cells.
+Worley noise is a noise function introduced by Steven Worley in 1996. In computer graphics it is used to create procedural textures. textures that are created automatically with arbitrary precision and do not have to be drawn by hand. Worley noise comes close to simulating textures of stone, water, or biological cells.
 to learn more read this : [here](https://en.wikipedia.org/wiki/Worley_noise)
 
 The algorithm chooses random points in space (2- or 3-dimensional) and then for every location in space takes the distances dn to the nth-closest point (e.g. the second-closest point) and uses combinations of those to control color information (note that dn+1 > dn). More precisely:
