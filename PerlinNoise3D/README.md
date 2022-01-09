@@ -6,4 +6,4 @@ to read more : [here](https://en.wikipedia.org/wiki/Perlin_noise)
 
    Processing Code Result       |        P5.js Code Result 
 :------------------------------:|:-------------------------:
-![](/docs/src.gif)           |  ![](/docs/src.png)
+  <img src="docs/src.gif">      |      <img src="docs/src.png">
