@@ -4,5 +4,6 @@ Ken Perlin developed perlin noise in 1983 as a result of his frustration with th
 
 to read more : [here](https://en.wikipedia.org/wiki/Perlin_noise)
 
-|     processing code result |       p5.js code result         |
-|  <img src="docs/src.gif">  | <img src="docs/src.png">        |
+   Processing Code Result       |        P5.js Code Result 
+:------------------------------:|:-------------------------:
+![](/docs/src.gif)           |  ![](/docs/src.png)
