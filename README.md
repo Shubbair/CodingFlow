@@ -1,4 +1,4 @@
-# CodingFlow
+# Creative Coding
 
 This is implementation of some math equation with code
 
