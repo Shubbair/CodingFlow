@@ -4,6 +4,6 @@
 <br/><br/>
 the book infos [here](https://10print.org/)
 
-the shape : 
+the output of code : 
 
 <img src="docs/src.png">
